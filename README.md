@@ -1,5 +1,5 @@
 - #### Hi, I’m **Marc** from Lateniteideas!  👋
-- 👀 I’m interested in front end and back end development, graphic design and illustration
+- 👀 I’m interested in front end development, UX/UI and illustration
 - 🌱 I’m currently learning React JS and improving my skills of Vue JS and vanilla JS
 - 📫 You can check my art work on instagram *@lateniteideas*
 
